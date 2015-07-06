@@ -1,0 +1,1 @@
+ So, canvas has a line dash property :0  
